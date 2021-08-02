@@ -1,5 +1,5 @@
 {
-  "name": "webpack-plugin-serve",
+  "name": "@hh.ru/webpack-plugin-serve",
   "version": "1.5.0-patch",
   "description": "A Development Server in a Webpack Plugin",
   "license": "MPL-2.0",
